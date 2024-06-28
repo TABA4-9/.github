@@ -3,7 +3,7 @@
 | 순번 | 목차 항목 |
 | :-: | :-: |
 | 1 | [팀원 소개](#팀원-소개) |
-| 2 | [프로젝트 일정](#프로젝트-일정) |
+| 2 | [프로젝트 기간](#프로젝트-기간) |
 | 3 | [추진 배경](#추진-배경) |
 | 4 | [프로젝트 목표](#프로젝트-목표) |
 | 5 | [시스템 설계도](#시스템-설계도) |
@@ -17,7 +17,7 @@
 | ___역할___ | 멘토 | AI | BE, Crawling | FE, BE, Crawling | BE | FE |
 | ___Github___ | <a href="https://github.com/youngjun-99"><img src="https://avatars.githubusercontent.com/u/83204523?v=4" width="64" height="64"></a> | <a href="https://github.com/kjhz2"><img src="https://avatars.githubusercontent.com/u/146512830?v=4" width="64" height="64"></a> | <a href="https://github.com/SeungBeom53"><img src="https://avatars.githubusercontent.com/u/132819503?v=4" width="64" height="64"></a> | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> | <a href="https://github.com/cjw0324"><img src="https://avatars.githubusercontent.com/u/51539046?v=4" width="64" height="64"></a> | <a href="https://github.com/Sangeok"><img src="https://avatars.githubusercontent.com/u/103489700?v=4" width="64" height="64"></a> |
 
-## 프로젝트 일정
+## 프로젝트 기간
 - 23.09 ~ 23.12
 
 ## 추진 배경
