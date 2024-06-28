@@ -49,8 +49,7 @@
 |9|수익 흐름<br>(Revenue Streams)|1. 물품 제공자와 물품 대여자 중개 서비스에 대한 건당 수수료 (%)<br>2. 월간 구독료, 프리미엄 가입<br>3. 광고비<br>4. 캠핑 용품 업계 협업|프리미엄 사용자에게 추가 혜택 제공<br>ex. 건당 수수료 면제|
 
 ## 추가 자료
-- 캠핑 규모
-  <img width="1020" alt="캠핑시장규모" src="https://github.com/TABA4-9/.github/assets/63178849/cacb0d06-c449-4e1f-a619-cbd9d58d6245"><br>
-  <br>
-- AI 활용
-  <img width="1021" alt="AI상품추천" src="https://github.com/TABA4-9/.github/assets/63178849/868fcbbe-920f-4cd1-92c6-f0d4a08674b1"><br>
+|제목|이미지|
+|:-:|:-:|
+|캠핑 규모|<img width="1020" alt="캠핑시장규모" src="https://github.com/TABA4-9/.github/assets/63178849/cacb0d06-c449-4e1f-a619-cbd9d58d6245">|
+|AI 활용|<img width="1021" alt="AI상품추천" src="https://github.com/TABA4-9/.github/assets/63178849/868fcbbe-920f-4cd1-92c6-f0d4a08674b1">|
