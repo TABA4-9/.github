@@ -1,13 +1,33 @@
 # 🏕️ CampShare
-> 팀원 소개
-  
+## 목차
+1. [팀원 소개](#팀원-소개)
+2. [프로젝트 일정](#프로젝트-일정)
+3. [추진 배경](#추진-배경)
+4. [프로젝트 목표](#프로젝트-목표)
+5. [프로젝트 요약](#프로젝트-요약)
+
+## 팀원 소개
+
 | _이름_ | 노영준 | 김정현 | 김승범 | 정규원 | 최재우 | 함상억 |
 |:-----:|:----:|:-----:|:----:|:----:|:-----:|:----:|
 | ___역할___ | 멘토 | AI | BE, Crawling | FE, BE, Crawling | BE | FE |
 | ___Github___ | <a href="https://github.com/youngjun-99"><img src="https://avatars.githubusercontent.com/u/83204523?v=4" width="64" height="64"></a> | <a href="https://github.com/kjhz2"><img src="https://avatars.githubusercontent.com/u/146512830?v=4" width="64" height="64"></a> | <a href="https://github.com/SeungBeom53"><img src="https://avatars.githubusercontent.com/u/132819503?v=4" width="64" height="64"></a> | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> | <a href="https://github.com/cjw0324"><img src="https://avatars.githubusercontent.com/u/51539046?v=4" width="64" height="64"></a> | <a href="https://github.com/Sangeok"><img src="https://avatars.githubusercontent.com/u/103489700?v=4" width="64" height="64"></a> |
-<br>
 
-> 프로젝트 소개
+## 프로젝트 일정
+- 23.09 ~ 23.12
+
+## 추진 배경
+- 캠핑 이용자들의 1년 이내 '캠핑 횟수'가 평균 5.5회, '숙박 일수'는 평균 1.3일로 조사 됨<br>
+- 1년 중 단 2%만 캠핑 용품을 사용하고 있음을 확인<br>
+- 캠핑 용품들은 1년의 98%만큼이나 사용 중이지 않는 상태로 방치되어지고 있음을 확인<br>
+- 현재 고가의 캠핑 장비들이 제 가치를 못하고 있다고 판단, 이를 활용해 가치를 창출하고자 함
+> 참고자료: https://www.alioplus.go.kr/news/newsDetail.do;jsessionid=d-VW2eUDsJ1Xy9w2m55EQRt5.node21?brdSeq=19563
+  
+## 프로젝트 목표
+- 캠핑용품 제공자는 캠핑용품 대여자에게 캠핑용품을 대여해줌으로써 대여비를 받을 수 있게 한다.
+- 캠핑용품 대여자는 가격이 비싼 캠핑용품을 대여함으로써 체험 후 구매할 수 있게 한다.
+
+## 프로젝트 요약
 
 |번호|항목|내용|비고|
 |:-:|:-:|:-:|:-:|
